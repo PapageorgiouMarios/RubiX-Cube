@@ -25,4 +25,4 @@ While in **Action Mode**, you can rotate the cube by clicking on the sides.
 
 https://github.com/user-attachments/assets/eb7911d9-e2e0-4de1-a1b7-87c615ffd6e2
 
-The project was created in PyCharm using Python 11 🐍 and open source game engine Ursina 7 🐻
+The project was created in PyCharm using Python 3.11 🐍 and open source game engine Ursina 7 🐻
