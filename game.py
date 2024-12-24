@@ -1,14 +1,5 @@
 from ursina import *
 
-goal_state = {
-    'LEFT': ['white'] * 9,
-    'RIGHT': ['yellow'] * 9,
-    'TOP': ['blue'] * 9,
-    'BOTTOM': ['green'] * 9,
-    'FACE': ['red'] * 9,
-    'BACK': ['orange'] * 9,
-}
-
 
 def create_sensor(name, pos, scale):
     return Entity(
